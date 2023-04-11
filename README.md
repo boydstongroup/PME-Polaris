@@ -2,7 +2,7 @@
 
 This repository contains the necessary files and instructions to convert a Creality Ender-3 FFF 3D printer into an open-source Powder Melt Extrusion (PME) 3D printer.
 
-![PME rendering](./Cover.jpg)
+![PME rendering](./coverart.jpg)
 
 ## Table of Contents
 
